@@ -1,1 +1,2 @@
 1 git remote add origin git@github.com:yanghao2022/yang.git
+2 ssh-keygen -t rsa -C 'sdsd@sd.com'
