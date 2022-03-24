@@ -1,0 +1,5 @@
+1.git clone detailed info
+2.git log
+3.git pull origin master --allow-unrelated-histories
+4.git pull
+5.git didd aaa
